@@ -1,1 +1,1 @@
-# religion_ai
+# religion_smart_search
